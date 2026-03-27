@@ -1,0 +1,30 @@
+{
+  "opportunities": [
+    {
+      "symbol": "SBUX",
+      "action": "BUY",
+      "confidence": 0.75,
+      "reason": "Oversold at -4.83% in mean reversion regime, expecting bounce"
+    },
+    {
+      "symbol": "META",
+      "action": "BUY",
+      "confidence": 0.72,
+      "reason": "Sharp decline of -3.99% creates mean reversion opportunity"
+    },
+    {
+      "symbol": "AMZN",
+      "action": "BUY",
+      "confidence": 0.71,
+      "reason": "Down -3.95% presenting mean reversion entry point"
+    },
+    {
+      "symbol": "XOM",
+      "action": "SELL",
+      "confidence": 0.68,
+      "reason": "Up +3.36% in mean reversion market, overbought condition"
+    }
+  ],
+  "regime": "MEAN_REVERSION",
+  "analysis_timestamp": "2024-12-19T15:30:45Z"
+}
