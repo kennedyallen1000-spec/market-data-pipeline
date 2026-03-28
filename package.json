@@ -1,10 +1,10 @@
 {
   "name": "market-data-pipeline",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "server-maqp.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
+    "start": "node server-maqp.js",
+    "dev": "node server-maqp.js"
   },
   "dependencies": {
     "axios": "^1.6.2",
